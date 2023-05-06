@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testui": "testcafe chrome src/functional-tests"
+    "test:ui": "testcafe chrome src/functional-tests"
   },
   "keywords": [],
   "author": "",
